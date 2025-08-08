@@ -8,5 +8,5 @@ I am Oluwatobiloba Adejumo, the founder of Chadashiel Education (not yet publicl
 - 🤔 **I’m currently open to** any web development job/intership opportunity. [This](https://drive.google.com/file/d/1uZsH1Chb5FsumezVx5MbXAEfvIVqf8zO/view?usp=sharing) is my resume.
 - 📫 **How to reach me:** You can reach me through my [LinkedIn](https://www.linkedin.com/in/oluwatobiloba-adejumo-194473271/) or through email. My contact information are in my description.
 - ⚡ **Fun fact:** I really love cars, coding, and movies (action movies are preferred)😄.
-- 💬 **Programming Languages:** HTML, CSS, and Python. Javascript (learning).
+- 💬 **Programming Languages:** HTML, CSS, Python, and Javascript (learning).
 
