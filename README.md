@@ -8,5 +8,5 @@ I am Oluwatobiloba Adejumo, the founder of Chadashiel Education (not yet publicl
 -  **How to reach me:** You can reach me through my [LinkedIn](https://www.linkedin.com/in/oluwatobiloba-adejumo-194473271/) or through email. My contact information is in my description.
 -  **Fun fact:** I really love cars, coding, and movies (action movies are preferred).
 -  **Programming Languages:** HTML, CSS, Python, Javascript, MATLAB, C++.
--  **Tools & Software:** VS Code, Google Colab, Git/GitHub, Streamlit, Arduino IDE
+-  **Tools & Software:** VS Code, Google Colab, Git/GitHub, Arduino IDE
 -  **AI:** Machine learning, Deep learning, Computer Vision
