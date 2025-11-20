@@ -1,5 +1,5 @@
 ## Hi there
-I am Oluwatobiloba Adejumo, the founder of Chadashiel Education (not yet publicly known), and an incoming Robotics & Mechatronics Engineering student at Xavier University of Louisiana. I am extremely interested in web development and data analysis.
+I am Oluwatobiloba Adejumo, the founder of Chadashiel Education (not yet publicly known), and an incoming Robotics & Mechatronics Engineering student at Xavier University of Louisiana. I am extremely interested in robotics, web development and data analysis.
 <br><br><br>
 
 -  **I’m currently working on** the official website of [Chadashiel Education](https://tobi3333a.github.io/Chadashiel-Education/).
