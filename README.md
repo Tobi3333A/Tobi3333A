@@ -1,5 +1,5 @@
 ## Hi there
-I am Oluwatobiloba Adejumo, the founder of Chadashiel Education (not yet publicly known), and an incoming Robotics & Mechatronics Engineering student at Xavier University of Louisiana. I am extremely interested in robotics, web development and data analysis.
+I am Oluwatobiloba Adejumo, the founder of Chadashiel Education (not yet publicly known), and an incoming Robotics & Mechatronics Engineering student at Xavier University of Louisiana. I am interested in robotics and web development.
 <br><br><br>
 
 -  **I am building** [Chadashiel Education](https://chadashiel.org).
@@ -10,4 +10,4 @@ I am Oluwatobiloba Adejumo, the founder of Chadashiel Education (not yet publicl
 -  **Programming Languages:** Java, HTML, CSS, Python, JavaScript/TypeScript, PostgreSQL, MATLAB, C++.
 -  **Frameworks & Libraries:** React, Next.js, Tailwind CSS, Scikit-learn, Pandas, NumPy, Matplotlib
 -  **Tools & Software:** VS Code, Google Colab, Supabase, Jupyter Notebook, Git/GitHub, Arduino IDE
--  **AI:** Machine learning, Deep learning, Computer Vision
+-  **AI:** Machine learning
