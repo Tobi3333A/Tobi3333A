@@ -2,7 +2,6 @@
 I am Oluwatobiloba Adejumo, an incoming Robotics & Mechatronics Engineering student at Xavier University of Louisiana. I am interested in robotics and web development.
 <br><br><br>
 
--  **I am building** [Chadashiel Education](https://chadashiel.org).
 -  **I am a** Robotics & Mechatronics Engineering major with a minor in Computer Science.
 -  **I am looking to collaborate on** any web development project, robotics project, or any research opportunities related to robotics. I would also really love to work with you on any charity initiatives you might have!
 -  **How to reach me:** You can reach me through my [LinkedIn](https://www.linkedin.com/in/emmanuel-adejumo-194473271/) or through email. My contact information is in my description.
